@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Hi, I’m Paul.
 - I’m interested in chip design.
-- I’m currently learning how to program in C++.
+- I’m currently learning how to write LaTeX.
 - I'm originally from Hawaii.
 - I'm a sophomore in electrical engineering.
 - I chose my major because it gives me the tools to examine technology from a hardware and software perspective.
